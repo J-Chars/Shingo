@@ -1,0 +1,229 @@
+=== SHINGO MOVESET ===
+
+
+=== Button Scheme ===
+
+D - Down
+U - Up
+B - Back
+F - Forward
+DF - Down+Forward
+DB - Down+Back
+LP - Light Punch
+MP - Medium Punch
+HP - Hard Punch
+LK - Light Kick
+MK - Medium Kick
+HK - Hard Kick
+P - Punch
+K - Kick
+2P - 2 Punches (i.e. LP+MP, LP+HP, MP+HP)
+2K - 2 Kicks (i.e. LK+MK, LK+HK, MK+HK)
+
+
+=== Disclaimer ===
+
+-Before reading the movelist, always assume that all the moves are ground only, unless it is said otherwise.
+
+-Always assume the player is facing to the right.
+
+
+=== Moveset ===
+
+
+= System =
+
+- Dodge -
+Command: LP+LK
+- Properties -
+=Avoids all attacks
+=Cannot avoid throws
+
+- Roll -
+Command: F/B + LP+LK
+- Properties -
+=Avoids all attacks
+=Cannot avoid throws
+
+- Power Up -
+Command: (Hold) MP+MK
+- Properties -
+=Charges Meter
+
+- Advancing Guard -
+Command: (While in Guardstun) LP+LK
+- Properties -
+=Pushes the opponent back
+
+- Counter Attack -
+Command: (While in Guardstun) MP+MK
+Meter Cost: 1/2
+- Properties -
+=Guaranteed Counter-hit
+
+- Counter Movement -
+Command: (While in Guardstun) F/B + MP+MK
+Meter Cost: 1/2
+- Properties -
+=Avoids attacks
+
+- Custom Combo -
+Command: LP+LK
+Meter Cost: 1-3
+- Properties -
+=Allows the player to cancel any attack they want
+=Start-up invulnerability
+=Meter determines length of custom combo
+
+=== COMMAND NORMALS ===
+
+- Hourin -
+Command: F + HP
+-Properties-
+=Hard Knockdown, No Recovery
+
+- Goufu You -
+Command: B + LK
+-Properties-
+=Overhead
+
+- Hop Kick -
+Command: F + MK
+-Properties-
+=Overhead
+
+=== SPECIALS ===
+
+- Aragami -
+Command: D, DF, F, P (2P for EX)
+-Properties-
+=Hard Knockdown, No Recovery (HP Only)
+=Juggleable (EX Only)
+-On Critical Hit-
+=Linkable
+
+- Oniyaki -
+Command: F, D, DF, P (2P for EX)
+-Properties-
+=Hard Knockdown, No Recovery
+-On Critical Hit-
+=Juggleable
+
+- Kotosutki -
+Command: F, DF, D, DB, B, K (2P for EX)
+-Properties-
+=Overhead
+-On Critical Hit-
+=Juggleable
+
+- Shingo Kick -
+Command: B, DB, D, DF, F, K (2K for EX)
+-Properties-
+=Hard Knockdown, No Recovery (during the end of Shingo Kick)
+=Juggleable (EX Only)
+=Air Okay
+-On Critical Hit-
+=Juggleable
+=CRITICAL WINDOW: towards the downfall of Shingo Kick
+
+- Nie Togi -
+Command: F, D, DF, K (2K for EX)
+-Properties-
+=Proximity Unblockable
+=Can only be done up close
+=Juggleable (EX Only)
+-On Critical Hit-
+=Juggleable
+
+- Gecchu -
+Command: D, DB, B, P (2P for EX)
+-Properties-
+=Hard Knockdown, No Recovery
+=Counters any normal or special attack
+=Wall Bounce (EX Only on Counterhit)
+-On Critical Hit-
+=Linkable
+=CRITICAL WINDOW: after the counter window is open
+
+- Oboro -
+Command: D, DF, F, K (2K for EX)
+-Properties-
+=Hard Knockdown, No Recovery
+=Juggleable (LP/MP Only)
+-by pressing kick, Shingo falls down, and this fall
+counts as an overhead, however the Oboro kicks themselves
+are not overheads.
+-On Critical Hit-
+=Juggleable
+
+=== SUPERS ===
+
+- Kake Hourin -
+Command: D, DF, F, D, DF, F, P
+Meter Cost: 1
+-Properties-
+=Hard Knockdown, No Recovery
+=Activates on proximity, but you can press Punch in
+order to activate the move prematurely
+-On Critical Hit-
+=Juggleable
+
+- Burning Shingo -
+Command: D, DB, B, DB, D, DF, F, P
+Meter Cost: 1
+-Properties-
+=Hard Knockdown, No Recovery
+-On Critical Hit-
+=Wall Bounce
+
+- Nise Hono -
+Command: D, DF, F, D, DF, F, K
+Meter Cost: 1
+-Properties-
+=Hard Knockdown, No Recovery
+-On Critical Hit-
+=Juggleable
+
+- Extreme Kake Hourin -
+Command: D, DF, F, D, DF, F, 2P
+Meter Cost: 2
+-Properties-
+=Hard Knockdown, No Recovery
+=Juggleable
+=Can cancel into any special or super on contact
+=Activates on proximity, but you can press Punch in
+order to activate the move prematurely
+
+- Mu Shiki -
+Command: D, DB, B, DB, D, DF, F, K
+Meter Cost: 2
+-Properties-
+=Hard Knockdown, No Recovery
+
+- Oreshiki Kamichiri -
+Command: F, DF, D, DB, B, F, DF, D, DB, B, P
+Meter Cost: 3
+
+Upon grabbing successfully, Shingo will hit the opponent a few times, then you will
+be prompted to mash the punch buttons repeatedly. The amount of times you mash punch
+will dictate how good the Level 3 super will be.
+If you mash too much, then Shingo will fail this super, same with if you mash too
+little. Get it just right and you'll get the full 50% damage.
+
+-Properties-
+=MAX Super
+
+=== CRITICAL HITS ===
+
+Critical Hits are a unique feature only used with Shingo.
+They are much stronger hits from specials/supers that reward
+you with many varying things: extra damage and juggling
+opportunities among other things.
+
+These are the conditions for critical hits:
+- Opponent must have forward velocity
+  = alternatively, you can hit it in a combo when hitting the move right outside the throw area
+- You have to hit the special/super in a specific window
+  = Some are unique while others are not
+- Criticals can only be obtained from specials and supers
+  = EX specials and level 2/3 supers cannot get critical hits

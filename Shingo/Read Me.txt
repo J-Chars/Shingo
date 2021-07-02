@@ -1,0 +1,58 @@
+- Shingo Readme -
+
+
+  = Q & A =
+
+
+ Q : Why Shingo? 
+
+ A : Troy had yet again done his magic and made a CvS2 Shingo Yabuki sprite-set. It was infinitely better than the sprites that
+     Infinite's POTS Shingo used, as those sprites were merely reshaded KOF 02 Shingo sprites. Of course, Infinite's Shingo got
+     spriteswapped mere days after Troy released the SFF for it, but I decided to be the first to actually make a good Shingo
+     using these sprites, and I believe that I did that job well enough to be considered better than Infinite's Shingo.
+
+
+ Q : What's his playstyle like?
+
+ A : Shingo plays similarly to his 98 appearance with some of his 02/02um elements in the mix, however his movement, hitboxes and
+     damage were adapted to be more akin to CvS2 Kyo with some altercations to make him a more unique character.
+
+
+ Q : How do you play Shingo?
+
+ A : Shingo is a very unique character, as his Critical Hits give him an advantage other characters do not. However, don't try to
+     go for a critical hit too much, as that usually results in a lot of punishment not in your favor. Criticals for Shingo usually
+     come in the form of good reads and maybe some lucky whiff punishes in there too. His Shingo Kick, unlike Kyo's R.E.D. kick is a
+     very useful move to close space and also catch the oppoennt by surprise. His combos, much like Kyo's, mainly revolve around
+     links and a few juggles, as moves such as his Oboro and Nie Togi can juggle into his DP (Oniyaki). His criticals only amplify
+     that combo potential that he possesses. His defensive options aren't really as viable as his offensive ones, but his roll is
+     a very good evasive tool since it travels pretty far pretty quickly. So, to sum it up, make use of Shingo's wide offensive
+     bag, but keep in mind that his defensive options are average at best, so it is essentially double or nothing.
+
+
+
+  = BEGINNER COMBOS =
+
+ cr.LP xx cr.LP xx s.LK xx MP.Aragami
+
+ cr.LK, cr.MK xx MP.Aragami
+
+ st.MK xx MK.Nie Togi, HP.Oniyaki
+
+ cr.LK, cr.MP xx MK.Oboro, HP.Oniyaki
+
+ cr.LP, st.HP xx Doukugami
+
+
+  = CUSTOM COMBOS =
+
+ Install, repeat (MP.Aragami xx HK Kotosutki), Kake Hourin
+
+ Install, HP.Oniyaki xx LP.Aragami, repeat (Doukugami), Kake Hourin
+
+
+ = CREDITS =
+
+  Troy99 - SFF, Feedback and Beta Testing
+
+  KarmaCharizard & Joey The Tricky - Feedback

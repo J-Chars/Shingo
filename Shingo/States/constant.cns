@@ -1,0 +1,110 @@
+;--------------------------
+;-| SHINGO by JtheSaltyy |-
+;--------------------------
+;    - CONSTANTS FILE -
+;--------------------------
+
+;================================
+
+[Data]
+life = 990
+attack = 100
+defence = 100
+fall.defence_up = 52
+liedown.time = 57
+airjuggle = 15
+sparkno = -1
+guard.sparkno = S7001
+KO.echo = 0
+volume = 100
+IntPersistIndex = 0
+FloatPersistIndex = 0
+
+;================================
+
+[Size]
+xscale = 0.985		
+yscale = 1.045		
+ground.back = 15		
+ground.front = 15		
+air.back = 15		
+air.front = 15	
+height = 60			
+attack.dist = 160	
+proj.attack.dist = 90	
+proj.doscale = 0		   
+head.pos = 7, -90
+mid.pos = -3, -64		
+shadowoffset = 0		
+draw.offset = 0,0		
+
+;================================
+
+[Velocity]
+walk.fwd = 3.75
+walk.back = -2.5
+run.fwd = 6.40625,-4.5
+run.back = -6.875,-4.5
+jump.neu = 0, -9.42
+jump.fwd = 3,-9.4
+jump.back = -3.55,-9.42
+runJump.fwd = 5.3625,-9.8
+runJump.back = -5.4,-9.8	
+
+;================================
+
+[Movement]
+airjump.num = 0		
+airjump.height = 28		
+yaccel = 0.52		
+stand.friction = .85		
+crouch.friction = .82
+air.gethit.groundrecover.ground.threshold = -20
+air.gethit.groundrecover.groundlevel = 10
+air.gethit.airrecover.threshold = -1
+air.gethit.airrecover.yaccel = 0.35
+
+;================================
+
+[Quotes]
+
+;=[ SHINGO QUOTES ]=
+
+victory1 = "Did you see that mom? I won!"
+victory2 = "Nobody bests the disciple of the great Kyo Kusanagi!"
+victory3 = "My effort is always rewarded with victories!"
+victory4 = "Wow! I just get better every fight!"
+victory5 = "Heh. Did I surprise you with my strength?"
+victory6 = "The fist of Kusanagi never leads me down the wrong path!"
+victory7 = "Nothing stops my impressive Shingo Kick!"
+victory8 = "Did you see any flames during those moves..?"
+victory9 = "Climbing the ranks isn't any difficult feat when you have the power of Kusanagi!"
+victory10 = "I, Shingo Yabuki, triumph once more! I'm coming for you, Mr. Kusanagi!"
+
+;=[ SPECIAL QUOTES ]=
+
+;Vs. Kyo Kusanagi
+victory11 = "'Feel the burn!' Now that was a good impression, wasn't it?"
+victory12 = "S-Sorry Mr. Kusanagi.. I probably shouldn't have gotten so serious.."
+victory13 = "I finally did it! I beat Mr. Kusanagi!"
+
+;Vs. K'
+victory14 = "I dunno what's the big deal here.. But something's up with you."
+
+;Vs. Kyo Clones (Kyo-1, Kyo-2, Kusanagi)
+victory15 = "Pfft! What kind of fake poser are you? Copying Mr. Kusanagi like that..."
+
+;Vs. Dan
+victory16 = "Go get yourself an identity. Copying moves isn't a respected tactic, ya know."
+
+;Vs. Sakura
+victory17 = "Hey, you fight like that guy Ryu from Street Fighter.. You know him?"
+
+;Vs. Shingo
+victory18 = "Woah... I gotta get some sleep. I must be seeing things.."
+
+;Vs. Kasumi
+victory19 = "Wow! You were pretty strong. I never thought someone my age would be that skilled.."
+
+;Vs. Iori
+victory20 = "Hey, if you got beef with Mr. Kusanagi, you got beef with me too. Stay out of his way!"
